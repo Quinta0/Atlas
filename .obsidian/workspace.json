@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "c797ea2bb357ce5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9d18d4adbc78cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1971321ebb1ba54",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Global Business Environment "
+              },
+              "icon": "lucide-file",
+              "title": "Global Business Environment"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8189a88c8bfdd34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8ebbbddb7b3265f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4812af42fa19dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "45b2194f8b3717b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4633828957a9fb9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "c7331daf7658635a",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb165ddd2e132085",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffcd03d4f727873d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "290b4afaf179a5b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4824e78d348ebc62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b653aa53876eaedc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9cf331912993cf12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "b1971321ebb1ba54",
+  "lastOpenFiles": [
+    "Statistics Inference/Statistics Inference.md",
+    "Global Business Environment /Global Business Environment.md",
+    "Global Business Environment /Global Business Environment 1.md",
+    "Statistics Inference/Series/Series 2.md",
+    "Statistics Inference/Series/Series.md",
+    "Statistics Inference/Series",
+    "Statistics Inference/Untitled.md",
+    "Financial Markets/Financial Markets.md",
+    "Microeconomics Behavioural Economics /Microeconomics Behavioural Economics.md",
+    "Macroeconomics Growth/Macroeconomics Growth.md",
+    "Business Strategy/Business Strategy.md",
+    "Business Strategy",
+    "Financial Markets",
+    "Macroeconomics Growth",
+    "Microeconomics Behavioural Economics ",
+    "Statistics Inference",
+    "Untitled.md",
+    "Global Business Environment ",
+    "Welcome.md",
+    "Tags"
+  ]
+}
